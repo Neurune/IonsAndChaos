@@ -4,6 +4,8 @@
 % concentrations (K+, Ca2+ and Mg2+).
 %
 % Written by Mathias Heltberg, University of Copenhagen: mathias.heltberg@nbi.ku.dk. 
+%
+% Used the function 'goodplot.m' for generating the final plot.
 
 clear all; close all; clc;
 
