@@ -7,3 +7,11 @@ http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30539-2
 The code implements and extends the Averaged-Neuron Model published by Tatsuki et al. (2016, Neuron) by including intra- and extracellular ion concentration dependencies for all incorporated extrinsic- and intrinsic ion conductances. 
 
 The code is written in Matlab, C++ and Fortran. 
+
+Contact 
+--------
+Questions or further inquiries can be directed to: 
+<ul>
+<li>Rune N. Rasmussen (E: runerasmussen@dandrite.au.dk)
+<li>Mathias L. Heltberg (E: mathias.heltberg@nbi.ku.dk)
+<ul>
